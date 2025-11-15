@@ -27,22 +27,6 @@ Estou estudando React e Desenvolvimento de Sistemas, buscando aprimorar minhas h
         src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
 </a>
-    <!-- Estrelas do GitHub -->
-    <a href="https://github.com/Bartho05?tab=repositories&sort=stargazers" target="_blank">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Bartho05?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <!-- Seguidores do GitHub -->
-    <a href="https://github.com/Bartho05?tab=followers" target="_blank">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Bartho05?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
