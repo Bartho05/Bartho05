@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Bartholomeo Rocha
 
-**`Full Stack`**
+**`Beck-End`**
 
-Me chamo Bartholomeo Elias da Rocha, tenho 15 anos e sou natural de Minas Gerais. Atualmente curso o Ensino Médio integrado ao Técnico em Informática na FUNEC, onde desenvolvo conhecimentos em programação, lógica computacional e fundamentos de tecnologia.
+Me chamo Bartholomeo Elias da Rocha, tenho 16 anos e sou natural de Minas Gerais. Atualmente curso o Ensino Médio integrado ao Técnico em Informática na FUNEC, onde desenvolvo conhecimentos em programação, lógica computacional e fundamentos de tecnologia.
 
 Estou estudando React e Desenvolvimento de Sistemas, buscando aprimorar minhas habilidades na criação de interfaces modernas, funcionais e responsivas. Sou apaixonado por tecnologia e tenho grande interesse em aprender novas ferramentas, resolver problemas e desenvolver soluções inovadoras que facilitem o dia a dia das pessoas.
 
