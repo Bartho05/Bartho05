@@ -125,7 +125,6 @@ Estou estudando React e Desenvolvimento de Sistemas, buscando aprimorar minhas h
 
 ### 🔨 Trabalhos em andamento
 
-https://github.com/KaykyFideliss/TrimmCompany-
 ---
 
 ### ✅ Trabalhos finalizados recentemente
