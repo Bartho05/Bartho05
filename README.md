@@ -49,6 +49,16 @@ Estou estudando React e Desenvolvimento de Sistemas, buscando aprimorar minhas h
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -59,43 +69,20 @@ Estou estudando React e Desenvolvimento de Sistemas, buscando aprimorar minhas h
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="Github" 
+    title="Github"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 <br><br>
 ### 📊 Estatísticas
@@ -115,6 +102,7 @@ Estou estudando React e Desenvolvimento de Sistemas, buscando aprimorar minhas h
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bartho05&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  
 
 </p>
 
@@ -128,6 +116,8 @@ Estou estudando React e Desenvolvimento de Sistemas, buscando aprimorar minhas h
 ---
 
 ### ✅ Trabalhos finalizados recentemente
+https://github.com/Bartho05/Autopecas-Estoque
+
 
 ---
 
