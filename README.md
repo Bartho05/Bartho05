@@ -4,7 +4,7 @@
 
 Me chamo Bartholomeo Elias da Rocha, tenho 16 anos e sou natural de Minas Gerais. Atualmente curso o Ensino Médio integrado ao Técnico em Informática na FUNEC, onde desenvolvo conhecimentos em programação, lógica computacional e fundamentos de tecnologia.
 
-Estou estudando React e Desenvolvimento de Sistemas, buscando aprimorar minhas habilidades na criação de interfaces modernas, funcionais e responsivas. Sou apaixonado por tecnologia e tenho grande interesse em aprender novas ferramentas, resolver problemas e desenvolver soluções inovadoras que facilitem o dia a dia das pessoas.
+Estou estudando Java e Banco de Dados, buscando aprimorar minhas habilidades na criação de API funcionais. Sou apaixonado por tecnologia e tenho grande interesse em aprender novas ferramentas, resolver problemas e desenvolver soluções inovadoras que facilitem o dia a dia das pessoas.
 
 ---
 
@@ -27,6 +27,14 @@ Estou estudando React e Desenvolvimento de Sistemas, buscando aprimorar minhas h
         src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
 </a>
+    <!-- Meu LinkedIn -->
+     <a href="https://www.linkedin.com/in/bartho05/" target="_blank">
+        <img 
+            alt="Meu Linkedin" 
+            title="Meu Linkedin" 
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
@@ -97,7 +105,7 @@ Estou estudando React e Desenvolvimento de Sistemas, buscando aprimorar minhas h
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bartho05&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartho05&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
   
 
